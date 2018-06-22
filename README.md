@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Testing out Github to see how it works. First repository of many. 
